@@ -1,0 +1,15 @@
+// TODO LIST
+//////////////
+
+// REACH LIST
+///////////////
+// Fix control scheme
+// Implement particle detection system
+// Implement clock facing direction
+
+// Art Issues
+///////////////
+// Fix spritesheet for toys (toys are different size and off center)
+// Fix spritesheet for boy (left and right (the tail casuses collision issues))
+// Toy spritsheet should have indication of toy being charged
+// Scene for mum hugging child
